@@ -1,5 +1,9 @@
 # IPFS Hack Day Barcelona - October 2017
 
+## Date: Saturday, 28th of Octoboer
+
+## Venue: Fab Lab BCN, Carrer de Pujades 102
+
 ## Planning on coming? Please RSVP
 
 RVSP here: https://www.meetup.com/IPFS-BCN/events/244344626/
