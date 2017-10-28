@@ -11,6 +11,7 @@ RVSP here: https://www.meetup.com/IPFS-BCN/events/244344626/
 ## I'm already here! What to do?!
 
 - [Schedule](https://github.com/VictorBjelkholm/ipfs-hack-day-barcelona-october-2017/issues/9)
+- [Communications (How to reach each other)](https://github.com/VictorBjelkholm/ipfs-hack-day-barcelona-october-2017/issues/14)
 - [Food](https://github.com/VictorBjelkholm/ipfs-hack-day-barcelona-october-2017/issues/10)
 - [Learning Resources](https://github.com/VictorBjelkholm/ipfs-hack-day-barcelona-october-2017/issues/15)
 - [Inspiration on what to work on (Find something you like? Assign yourself or write a comment in that issue!)](https://github.com/VictorBjelkholm/ipfs-hack-day-barcelona-october-2017/issues?q=is%3Aissue+is%3Aopen+label%3Ainspiration)
